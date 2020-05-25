@@ -4,10 +4,9 @@ Hint.css
 
 ## Installation
 
-npm install @shubham_17/tooltips --save
 
 ```bash
-npm i @shubham_17/tooltips
+npm install @shubham_17/tooltips --save
 ```
 
 ## Usage
@@ -36,20 +35,20 @@ class App extends React.Component {
 ### Tooltip Options
 
 You can contomize this tooltip with disserent available options.
+----
 **Note**
+----
 All options are in lower case.
 
 | Options | Types |
 | ------ | ------ |
-| position | top,right,bottom,left,top-right/left,bottom-right/left |
+| position | top , right , bottom , left , top-right/left , bottom-right/left |
 | size | small,medium,large |
 | type | info,error,success,warning |
 | animation | bounce (more to come) |
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
 
 ## Note
 This is a demo package ;)
