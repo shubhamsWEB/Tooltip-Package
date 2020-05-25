@@ -43,8 +43,8 @@ All options are in lower case.
 | Options | Types |
 | ------ | ------ |
 | position | top , right , bottom , left , top-right/left , bottom-right/left |
-| size | small,medium,large |
-| type | info,error,success,warning |
+| size | small , medium , large |
+| type | info , error , success , warning |
 | animation | bounce (more to come) |
 
 ## Contributing
