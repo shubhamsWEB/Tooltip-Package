@@ -34,10 +34,8 @@ class App extends React.Component {
 ```
 ### Tooltip Options
 
-You can contomize this tooltip with disserent available options.
-----
+You can customize this tooltip with different available options.
 **Note**
-----
 All options are in lower case.
 
 | Options | Types |
