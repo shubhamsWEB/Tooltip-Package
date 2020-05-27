@@ -1,6 +1,6 @@
 # REACT TOOLTIPS
 
-Hint.css[https://kushagra.dev/lab/hint/]
+[Hint.css](https://kushagra.dev/lab/hint/)
 
 ## Installation
 
