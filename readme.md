@@ -13,7 +13,7 @@ npm install @shubham_17/tooltips --save
 
 ```reactjs
 import React from "react";
-import Tooltip from "./Tooltip";
+import Tooltip from "@shubham_17/tooltips";
 class App extends React.Component {
   render() {
     return (
